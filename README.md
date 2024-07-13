@@ -7,17 +7,10 @@ The Event Management System is a comprehensive application designed to streamlin
 Features
 
 Occasion Selection: Users can select the type of event they are planning.
-
 Venue Selection: Multiple venue options are available to choose from.
-
 Food Options: A variety of catering choices are provided.
-
 Ambiance Selection: Customize the ambiance to suit the event.
-
 Event Details: Additional event-specific details can be specified.
-
 Preview and Cost Estimate: View a summary of selections with the total cost.
-
 Payment Gateway: Integrated payment gateway for seamless transactions.
-
 Booking Confirmation: Display of payment success and event booking confirmation.                         
